@@ -1,4 +1,4 @@
-# Event-Management
+# Happy To Help
  Website for reference
  https://pshah.ca/eventManagement/
  
