@@ -1,8 +1,7 @@
 # Happy To Help
- Website for reference
- https://pshah.ca/eventManagement/
+ Website: https://pshah.ca/eventManagement/
  
- https://www.youtube.com/watch?v=WdTOIdoQFmY
+ Youtube: https://www.youtube.com/watch?v=WdTOIdoQFmY
  
  Abstract—Helping others is an excellent way to help ourselves.
 It can be done in many ways. We are providing a platform where
